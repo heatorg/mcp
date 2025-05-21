@@ -1,5 +1,5 @@
 {
-  "name": "final-mcp",
+  "name": "heat-mcp",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -7,13 +7,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finalhq/mcp.git"
+    "url": "git+https://github.com/heatorg/mcp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/finalhq/mcp/issues"
+    "url": "https://github.com/heatorg/mcp/issues"
   },
-  "homepage": "https://github.com/finalhq/mcp#readme",
+  "homepage": "https://github.com/heatorg/mcp#readme",
   "description": ""
 }
